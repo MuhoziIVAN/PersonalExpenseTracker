@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonalExpensesMonitorApplication<PersonalExpensesMonitor>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "auca.rw.PersonalExpensesMonitor.PersonalExpensesMonitorApplication",
+            "projectName": "PersonalExpensesMonitor",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
