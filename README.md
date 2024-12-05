@@ -1,3 +1,6 @@
+NB: The deployment only works on FIREFOX 
+
+
 Personal Expense Tracker: Shareholder Overview
 Our Personal Expense Tracker is a cutting-edge platform designed to help individuals manage their finances efficiently. It combines user-friendly interfaces with robust technical solutions to deliver a seamless and secure experience.
 
